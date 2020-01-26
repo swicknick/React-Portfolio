@@ -1,0 +1,77 @@
+/* div {
+    border: 1px solid red;
+}
+.row {
+    border: 1px solid cyan;
+} */
+
+.jumbotron {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('img/jumbo.jpg') no-repeat center center;
+    background-size: cover;
+    opacity: 0.8;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    font-family: 'Bebas Neue', cursive;
+}
+
+#jumbotronAbout {
+    background: linear-gradient(rgba(0, 0, 0, 0.637), rgba(0, 0, 0, 0.726)), url('img/aboutBackground.jpg') no-repeat center center;
+    background-size: cover;
+    opacity: 0.8;
+    padding-top: 10%;
+    padding-bottom: 20%;
+    font-family: 'Bebas Neue', cursive;
+    margin-bottom: 0px;
+}
+
+.container-fluid {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.h1, h2, h3, p {
+    font-family: 'Bebas Neue', cursive;
+}       
+
+.container {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.btn {
+    font-family: 'Bebas Neue', cursive;
+}
+
+ul {
+  list-style: none;
+  padding: 0 !important;
+
+}
+
+a {
+    color: #FFF;
+    font-size: 20px;
+    text-decoration: none !important;
+
+}
+  a:hover {
+     color: #7C8DA0
+}
+
+.accordion {
+    max-width: 1000px;
+    margin: 10px auto;
+    box-shadow: 0 0 1px rgba(0,0,0,0.1);
+}
+
+.site-footer {
+    padding-top: 25px;
+    padding-bottom: 0px;
+    margin: 0px;
+    border: 0px;
+    background-color: #212529;
+    color: white;
+}
+
+.btn-social-icon {
+    font-size: 3rem;
+    color: white;
+}
